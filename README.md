@@ -5,6 +5,8 @@ You can use the [editor on GitHub](https://github.com/LangsterGA/LangsterGA.gith
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+### About me
+I am a senior GIS analyst living and working in Atlanta, GA. I work in the field of public health and I am inspired by open source data and technologies that support humanitarian response.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
